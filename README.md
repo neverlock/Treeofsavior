@@ -37,3 +37,6 @@ _________________
 
 ### source ###
 https://www.facebook.com/groups/280601578770772/permalink/538610512969876/
+
+### Befor USE ###
+please copy tahoma.ttf to font folder
